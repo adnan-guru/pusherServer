@@ -9,7 +9,7 @@ By running a single command, you will get a production-ready Node.js app install
 Clone the repo:
 
 ```bash
-git clone --depth 1 https://github.com/techloset/pusherServer.git
+git clone --depth 1 https://github.com/adnan-guru/pusherServer
 
 ```
 
